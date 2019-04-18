@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\StudentManagePro\StudentManagePro\bin\Debug\StudentManagePro.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\StudentManagePro\StudentManagePro\bin\Debug\StudentManagePro.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\StudentManagePro\StudentManagePro\bin\Debug\StudentManagePro.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\StudentManagePro\StudentManagePro\bin\Debug\GMap.NET.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\StudentManagePro\StudentManagePro\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\StudentManagePro\StudentManagePro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\StudentManagePro\StudentManagePro\obj\Debug\StudentManagePro.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\StudentManagePro\StudentManagePro\obj\Debug\StudentManagePro.FemRess.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\StudentManagePro\StudentManagePro\obj\Debug\StudentManagePro.FrmMain.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\StudentManagePro\StudentManagePro\obj\Debug\StudentManagePro.FrmUserLogin.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\StudentManagePro\StudentManagePro\obj\Debug\StudentManagePro.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\StudentManagePro\StudentManagePro\obj\Debug\StudentManagePro.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\StudentManagePro\StudentManagePro\obj\Debug\StudentManagePro.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\StudentManagePro\StudentManagePro\obj\Debug\StudentManagePro.pdb
